@@ -1,0 +1,8 @@
+# .gitignore
+*.pt
+*.mp4
+*.avi
+videos/
+outputs/
+model/
+reid-env/
